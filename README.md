@@ -15,7 +15,7 @@ This project draws inspiration from the 'Build A ChatGPT AI in JavaScript' cours
 
 - **Frontend:** JavaScript, React.js, Next.js
 - **API Integration:** OpenAI API
-- **Deployment:** [Insert Deployment Platform Here]
+
 
 ## Screenshot
 ![Openai API APP](https://github.com/taeleeswe/Restaurant-Recommender/assets/123449246/2d54e601-ea28-4be7-827b-f6acf15ce4b6)
