@@ -1,6 +1,8 @@
 # Restaurant Recommender
 
-Restaurant Recommender is a cutting-edge web application powered by OpenAI's ChatGPT API. It offers personalized restaurant recommendations based on your food preferences, all within the vibrant culinary landscape of New York City.
+Restaurant Recommender is a cutting-edge web application powered by OpenAI's ChatGPT API. It offers personalized restaurant recommendations based on your food preferences, all within the vibrant culinary landscape of New York City. 
+
+This project draws inspiration from the 'Build A ChatGPT AI in JavaScript' course by Clarian North on Udemy. While the core concept is derived from the course, I've customized and extended the application to create a personalized experience.
 
 ## Features
 
@@ -15,3 +17,5 @@ Restaurant Recommender is a cutting-edge web application powered by OpenAI's Cha
 - **API Integration:** OpenAI API
 - **Deployment:** [Insert Deployment Platform Here]
 
+## Screenshot
+![Openai API APP](https://github.com/taeleeswe/Restaurant-Recommender/assets/123449246/2d54e601-ea28-4be7-827b-f6acf15ce4b6)
