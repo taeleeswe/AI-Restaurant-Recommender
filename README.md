@@ -18,4 +18,5 @@ This project draws inspiration from the 'Build A ChatGPT AI in JavaScript' cours
 
 
 ## Screenshot
-![Openai API APP](https://github.com/taeleeswe/Restaurant-Recommender/assets/123449246/2d54e601-ea28-4be7-827b-f6acf15ce4b6)
+![Openai API APP](https://github.com/taeleeswe/Restaurant-Recommender/assets/123449246/1fc9bca4-73dd-45f4-987e-84d42e63e7c7)
+
